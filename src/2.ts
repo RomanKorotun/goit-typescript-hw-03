@@ -34,6 +34,4 @@ class Manager extends Employee {
   }
 }
 
-const manager = new Manager("Roman", "developer", 10000);
-
 export {};
